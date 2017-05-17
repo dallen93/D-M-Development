@@ -1,2 +1,2 @@
-# DevPhotoSite
-Devyn's Photography Website
+# D&M Development
+Devyn & Mac Development Website
